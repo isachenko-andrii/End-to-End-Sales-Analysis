@@ -32,13 +32,14 @@ This project is a full-fledged analytical solution developed in **Power BI** for
 ## Project structure  
   
 **End-to-End-Sales-Analysis**/ — project directory  
-├── data/ — project data  
+├── data/ — project data    
 │    └── Global_Superstore2.xlsx  
 ├── project/ — project files  
-│    └── Project.pbix — is the main file of the Power BI report  
+│    └── Project_End_to_End_Sales_Analysis.pbix — is the main file of the Power BI report  
 ├── images/ — saved graphs and final dashboard  
 ├── LICENSE — MIT License  
 ├── project-logo.png — project cover  
+├── README-UA.md — project description in Ukrainian  
 └── README.md — project description   
    
 ## How to use  
