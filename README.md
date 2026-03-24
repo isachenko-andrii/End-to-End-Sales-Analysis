@@ -7,14 +7,16 @@
   
 ## Project Overview   
   
-  
-  
+This project is a full-fledged analytical solution developed in **Power BI** for analyzing sales performance and optimizing logistics processes based on a large data set (Global Superstore).  
+    
 **Technology Stack**  
   
-**Visualization Tool:** MicroSoft Power BI  
 **Data Source:** [Global Super Store Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)  
-**Analysis Types:**  
-  
+* **Power Query:** Data cleansing and ETL processes.  
+* **Data Modeling:** Building a Star Schema architecture.  
+* **DAX:** Creating complex measures for discount and KPI analysis.  
+* **Visualization:** Interactive reports with cross-filtering and slicer synchronization.  
+* **Visualization Tool:** MicroSoft Power BI  
   
 ## Data structure  
   
