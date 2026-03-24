@@ -40,7 +40,7 @@
   
 ## Acknowledgments    
     
- - Thanks to [Apoorva Mahalingappa](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)) for providing this rich dataset for the data community.  
+ - Thanks to [Apoorva Mahalingappa](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset) for providing this rich dataset for the data community.  
  - Special thanks to the [Kaggle](https://www.kaggle.com/) platform for hosting the data.  
  - Thanks to the [Data Analyst/GoIT](https://goit.global/ua/courses/data-analytics/) course, which was part of this project.  
   
