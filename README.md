@@ -1,4 +1,4 @@
-![Project-logo](https://github.com/isachenko-andrii/End-to-End-Sales-Analysis/blob/main/Project-logo.png)
+![End to End Sales Analysis(Power BI)](https://github.com/isachenko-andrii/End-to-End-Sales-Analysis/blob/main/Project-logo.png)
 <div align="center">  
     
 # End to End Sales Analysis<br>(Power BI)  
